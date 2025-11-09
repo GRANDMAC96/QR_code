@@ -1,0 +1,22 @@
+/* Remove default styling by applying the below */
+* {
+    box-sizing: border-box;
+    margin: 0px;
+    padding: 0px;
+}
+
+.main {
+    background-color: hsl(212, 45%, 89%);
+    min-height: 100vh;
+    min-width: 100%;
+    /* display: flex;
+    justify-content: center;
+    align-items: center; */
+}
+
+/* .card {
+    height: 60vh;
+    width: 25vw;
+    background-color: white;
+    border-radius: 5%;
+} */

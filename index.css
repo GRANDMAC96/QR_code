@@ -9,14 +9,14 @@
     background-color: hsl(212, 45%, 89%);
     min-height: 100vh;
     min-width: 100%;
-    /* display: flex;
+    display: flex;
     justify-content: center;
-    align-items: center; */
+    align-items: center;
 }
 
-/* .card {
+.card {
     height: 60vh;
     width: 25vw;
     background-color: white;
     border-radius: 5%;
-} */
+}

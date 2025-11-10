@@ -49,3 +49,14 @@
     text-align: center;
 
 }
+
+@media (width <= 385px) {
+    .card {
+        max-width: 90vw;
+    }
+}
+@media (385px <= width <= 760px) { {
+    .card {
+        max-width: 55vw;
+    }
+}

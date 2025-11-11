@@ -55,7 +55,7 @@
         max-width: 90vw;
     }
 }
-@media (385px <= width <= 760px) { {
+@media (385px <= width <= 760px) { 
     .card {
         max-width: 55vw;
     }
